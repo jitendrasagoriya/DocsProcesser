@@ -7,5 +7,4 @@ git clone https://github.com/jitendrasagoriya/DocsProcesser.git
   a) python manage.py migrate
   b) python manage.py runserver
   
-# Put all you code in "upload/templates/upload/simple_upload.html"
-
+#4 Put all you code in "upload/templates/upload/simple_upload.html"
